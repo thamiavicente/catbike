@@ -1,0 +1,69 @@
+.bgNavBar {
+  background: #424242; }
+
+.logoNavBar {
+  width: 3.5em; }
+
+.carouselText {
+  font-size: 2.5em; }
+
+.uppercaseText {
+  text-transform: uppercase; }
+
+body h2 {
+  color: #C1272D; }
+
+.manifestSubtitle {
+  font-size: 1.5em; }
+
+body a {
+  color: #C1272D; }
+
+body a:hover {
+  color: #000; }
+
+.nav-pills .nav-link.active, .nav-pills .show > .nav-link {
+  background-color: #C1272D; }
+
+#navbarVertical {
+  background-color: #EEE; }
+
+.scrollspySite {
+  position: relative;
+  overflow: auto;
+  height: 364px; }
+
+.btnFinishAction {
+  background-color: #C1272D;
+  color: #FFF; }
+
+.jumbotron {
+  padding: 3rem; }
+
+.modal-title {
+  color: #C1272D;
+  font-weight: 500;
+  font-size: 1.5em; }
+
+footer {
+  background-color: #424242; }
+
+footer p {
+  color: #FFF; }
+
+footer img {
+  width: 6rem; }
+
+.menuLinksFooter {
+  padding: 0.3rem 1.25rem;
+  background-color: #424242;
+  color: #FFF;
+  border: 1px solid #000; }
+
+.socialMediaFooter {
+  border: 1px solid #000; }
+
+.copyright {
+  color: #000; }
+
+/*# sourceMappingURL=style.css.map */
