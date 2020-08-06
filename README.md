@@ -22,9 +22,9 @@
 - Contact form
 
 ## :computer: Deploy
-[Deploy](https://thamiavicente.github.io/catbike/)
-<br>
-[Code](https://github.com/thamiavicente/catbike)
+- [Deploy](https://thamiavicente.github.io/catbike/)
+
+- [Code](https://github.com/thamiavicente/catbike)
 
 ## :warning: Prerequisites
 - [Node.js](https://nodejs.org/en/)
