@@ -26,6 +26,9 @@
 <br>
 [Code](https://github.com/thamiavicente/catbike)
 
+## :warning: Prerequisites
+- [Node.js](https://nodejs.org/en/)
+
 ## :arrow_forward: How to run the code
 <p>1. Install the libs</p>
 
