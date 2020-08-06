@@ -41,15 +41,15 @@ npm install popper
 
 <p>2. Compile the files</p>
 
-'''
+```
 sass --watch node_modules/bootstrap/scss:node_modules/boostrap/compiler
-'''
+```
 
 <p>3. Clone the repostitore</p>
 
-'''
+```
 git clone https://github.com/thamiavicente/catbike
-'''
+```
 
 ## :books: Installed libs
 - [Bootstrap](https://getbootstrap.com/)
