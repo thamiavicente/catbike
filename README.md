@@ -23,7 +23,6 @@
 
 ## :computer: Deploy
 - [Deploy](https://thamiavicente.github.io/catbike/)
-
 - [Code](https://github.com/thamiavicente/catbike)
 
 ## :warning: Prerequisites
