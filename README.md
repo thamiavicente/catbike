@@ -9,7 +9,7 @@
 
 ## :clipboard: Description
 ### What is it?
-<p>While doing a course about Bootstrap, I made this website for a imaginary bike shop.</p>
+<p>While tooking a course about Bootstrap, I made this website for a imaginary bike shop.</p>
 
 ### What has it?
 - Search field
