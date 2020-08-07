@@ -1,3 +1,6 @@
+html {
+  scroll-behavior: smooth; }
+
 .bgNavBar {
   background: #424242; }
 
